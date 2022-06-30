@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spacingSmall">8dp</dimen>
+    <dimen name="smallSizeIcon">20dp</dimen>
+    <dimen name="fontSizetTitle">20sp</dimen>
+    <dimen name="height_video">200dp</dimen>
+    <dimen name="small_height_video">100dp</dimen>
+    <dimen name="height_title_video">70dp</dimen>
+</resources>
